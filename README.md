@@ -1,4 +1,4 @@
-# Extended NVIDIA Redtail project for Arducopter
+# Extended NVIDIA Redtail project for Arducopter and rover
 Autonomous visual navigation components for drones using deep learning.
 This project is based on the original Redtail project by Nvidia see [wiki](https://github.com/NVIDIA-Jetson/redtail/wiki) and includes the changes needed to make it run with the [Arducopter flightcontroller firmware](http://ardupilot.org/copter/) based on the work of https://github.com/ArduPilot/redtail. It also incorporates the migration of all project components to Jetpack 4.2.2 and ROS Melodic plus a number of enhancements for video streaming, ROS node control, YOLO, and so on.
 
